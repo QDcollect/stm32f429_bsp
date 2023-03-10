@@ -1,0 +1,2 @@
+# stm32f429_bsp
+可以配合CUBEMX生成的初始化使用的BSP
