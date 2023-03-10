@@ -1,0 +1,4 @@
+1、fmc_io  没涉及其他的bsp
+2、time	没涉及其他的bsp
+3、 uart	没涉及其他bsp
+4、key     涉及bsp_time，需要使用扫描
